@@ -1,31 +1,42 @@
+# 🎓 PAP - [Título do Projeto]
 
-## 📋 **VERSÃO SIMPLIFICADA (Alternativa)**
+## 👤 Informação do Aluno
+**Nome:** [Teu Nome Completo]  
+**Número:** [Número de Aluno]  
+**Curso:** Profissional de Informática  
+**Ano Letivo:** 2023/2024  
+**Orientador:** [Nome do Professor Orientador]
 
-```markdown
-# PAP - [Título do Projeto]
+## 📋 Descrição do Projeto
+[Descreve brevemente o teu projeto em 2-3 frases. Exemplo:]  
+Sistema de gestão de biblioteca online que permite aos utilizadores pesquisar livros, fazer reservas e gerir o seu perfil de leitor.
 
-## 👤 Aluno
-**Nome:** [Nome Completo]  
-**Número:** [Número]  
-**Orientador:** [Nome Professor]
+## 🎯 Objetivos Principais
+- [ ] Desenvolver um site dinâmico com base de dados
+- [ ] Implementar sistema de autenticação de utilizadores
+- [ ] Criar interface responsiva e intuitiva
+- [ ] Implementar funcionalidade CRUD completa
+- [ ] Fazer deploy da aplicação
 
-## 📝 Descrição
-[Descrição breve do projeto]
+## 🛠️ Stack Tecnológica
 
-## 🎯 Objetivos
-- [ ] Site dinâmico com base de dados
-- [ ] Autenticação de utilizadores
-- [ ] Interface responsiva
-- [ ] Funcionalidades CRUD
+### **Frontend**
+- [ ] HTML5, CSS3, JavaScript
+- [ ] Bootstrap/Tailwind CSS [ou outro framework]
+- [ ] React/Vue.js [opcional]
 
-## 🛠️ Tecnologias
-- **Frontend:** HTML, CSS, JavaScript
-- **Backend:** [Tecnologia escolhida]
-- **Base de Dados:** MySQL/PostgreSQL
+### **Backend**
+- [ ] Node.js/PHP/Python [escolher um]
+- [ ] Express/Laravel/Django [framework]
+- [ ] Autenticação JWT/Sessions
 
-## 🚀 Como Executar
-```bash
-git clone [url-do-repositorio]
-cd projeto
-npm install
-npm start
+### **Base de Dados**
+- [ ] MySQL/PostgreSQL
+- [ ] ORM: Sequelize/Eloquent [conforme backend]
+
+### **Outras Ferramentas**
+- [ ] Git & GitHub
+- [ ] Docker [opcional]
+- [ ] VSCode
+
+## 📁 Estrutura do Projeto
