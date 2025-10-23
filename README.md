@@ -1,27 +1,31 @@
-# PAP---Desenvolvimento-Site-Dinâmico
 
-## Aluno: [Nome]
-## Orientador: [Nome Professor]
+## 📋 **VERSÃO SIMPLIFICADA (Alternativa)**
 
-## Descrição
-[2-3 frases sobre o projeto]
+```markdown
+# PAP - [Título do Projeto]
 
-## Tecnologias
-- Frontend: HTML, CSS, JavaScript
-- Backend: [tecnologia]
-- Base de Dados: [MySQL/PostgreSQL]
+## 👤 Aluno
+**Nome:** [Nome Completo]  
+**Número:** [Número]  
+**Orientador:** [Nome Professor]
 
-## Funcionalidades Principais
-- [ ] Sistema de login
-- [ ] CRUD de [entidade principal]
+## 📝 Descrição
+[Descrição breve do projeto]
+
+## 🎯 Objetivos
+- [ ] Site dinâmico com base de dados
+- [ ] Autenticação de utilizadores
 - [ ] Interface responsiva
+- [ ] Funcionalidades CRUD
 
-## Como Executar
-1. git clone [url]
-2. [comandos de setup]
-3. [comando para executar]
+## 🛠️ Tecnologias
+- **Frontend:** HTML, CSS, JavaScript
+- **Backend:** [Tecnologia escolhida]
+- **Base de Dados:** MySQL/PostgreSQL
 
-## Progresso
-- ✅ Estrutura base
-- 🟡 Backend em desenvolvimento
-- 🔴 Frontend por iniciar
+## 🚀 Como Executar
+```bash
+git clone [url-do-repositorio]
+cd projeto
+npm install
+npm start
