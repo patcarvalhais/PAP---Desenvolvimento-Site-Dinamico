@@ -70,22 +70,22 @@ Fase	Tarefas	Prazo	Estado
 ## 📝 Relatório de Progresso
 Última Atualização: [Data]
 O que foi feito desde a última atualização:
-Implementada a funcionalidade X
-Corrigido bug Y
-Melhorado o design da página Z
+- Implementada a funcionalidade X
+- Corrigido bug Y
+- Melhorado o design da página Z
 
 ## Próximos passos:
-Implementar feature A
-Escrever testes para B
-Otimizar performance C
+- Implementar feature A
+- Escrever testes para B
+- Otimizar performance C
 
 ## 🔗 Links Úteis
-Documentação - Documentação detalhada
-Trello/Planeamento - Quadro de tarefas
-Protótipo - Design no Figma
+- Documentação - Documentação detalhada
+- Trello/Planeamento - Quadro de tarefas
+- Protótipo - Design no Figma
 
 ## 📞 Contacto
-Email: [teu.email@escola.com]
-GitHub: [@teuusername]
+- Email: [teu.email@escola.com]
+- GitHub: [@teuusername]
 
 
