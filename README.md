@@ -45,60 +45,46 @@ Sistema de gestão de biblioteca online que permite aos utilizadores pesquisar l
 ## 📊 *Funcionalidades Implementadas*
 
 ### ✅ Concluídas
-Sistema de registo e login
-
-Página inicial com listagem
-
-Perfil de utilizador
-
+- Sistema de registo e login
+- Página inicial com listagem
+- Perfil de utilizador
 ...
 
-###🔄 Em Desenvolvimento
-Funcionalidade de pesquisa
-
-Upload de ficheiros
-
+### 🔄 Em Desenvolvimento
+- Funcionalidade de pesquisa
+- Upload de ficheiros
 ...
 
-###📅 Planeadas
-API REST
-
-PWA
-
+### 📅 Planeadas
+- API REST
+- PWA
 ...
 
-##🗓️ Plano de Trabalho
+## 🗓️ Plano de Trabalho
 Fase	Tarefas	Prazo	Estado
 1	Planeamento e setup	DD/MM	✅
 2	Desenvolvimento backend	DD/MM	🟡
 3	Desenvolvimento frontend	DD/MM	🔴
 4	Testes e deploy	DD/MM	🔴
-📝 Relatório de Progresso
+
+## 📝 Relatório de Progresso
 Última Atualização: [Data]
 O que foi feito desde a última atualização:
-
 Implementada a funcionalidade X
-
 Corrigido bug Y
-
 Melhorado o design da página Z
 
-##Próximos passos:
-
+## Próximos passos:
 Implementar feature A
-
 Escrever testes para B
-
 Otimizar performance C
 
-##🔗 Links Úteis
+## 🔗 Links Úteis
 Documentação - Documentação detalhada
-
 Trello/Planeamento - Quadro de tarefas
-
 Protótipo - Design no Figma
 
-##📞 Contacto
+## 📞 Contacto
 Email: [teu.email@escola.com]
 GitHub: [@teuusername]
 
