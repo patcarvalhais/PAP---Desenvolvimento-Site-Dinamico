@@ -40,3 +40,4 @@ Sistema de gestão de biblioteca online que permite aos utilizadores pesquisar l
 - [ ] VSCode
 
 ## 📁 Estrutura do Projeto
+![Estrutura do projeto](./docs/images/estrutura.png)
