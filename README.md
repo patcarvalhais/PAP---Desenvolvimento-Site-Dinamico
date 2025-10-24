@@ -42,9 +42,9 @@ Sistema de gestão de biblioteca online que permite aos utilizadores pesquisar l
 ## 📁 Estrutura do Projeto
 ![Estrutura do projeto](./docs/images/estrutura.png)
 
-##📊 *Funcionalidades Implementadas*
+## 📊 *Funcionalidades Implementadas*
 
-###✅ Concluídas
+### ✅ Concluídas
 Sistema de registo e login
 
 Página inicial com listagem
