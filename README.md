@@ -60,12 +60,14 @@ Sistema de gestão de biblioteca online que permite aos utilizadores pesquisar l
 ...
 
 ## 🗓️ Plano de Trabalho
-Fase	Tarefas	Prazo	Estado
+Fase	  Tarefas	  Prazo	  Estado
 
 1	Planeamento e setup	DD/MM	✅
 
 2	Desenvolvimento backend	DD/MM	🟡
+
 3	Desenvolvimento frontend	DD/MM	🔴
+
 4	Testes e deploy	DD/MM	🔴
 
 ## 📝 Relatório de Progresso
