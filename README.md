@@ -4,8 +4,7 @@
 **Nome:** [Teu Nome Completo]  
 **Número:** [Número de Aluno]  
 **Curso:** Profissional de Informática - Sistemas
-**Ano Letivo:** 2025/2026 
-**Orientador:** [Nome do Professor Orientador]
+**Ano Letivo:** 2026/2027
 
 ## 📋 Descrição do Projeto
 [Descreve brevemente o teu projeto em 2-3 frases. Exemplo:]  
